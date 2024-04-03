@@ -10,6 +10,6 @@
         public List<String> Size { get; set; }
         public List<String> Color { get; set; }
         public List<String> Image { get; set; }
-        // them de push thu
+        // them de push thu lan 2
     }
 }
